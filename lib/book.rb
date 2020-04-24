@@ -1,2 +1,3 @@
 class Book
+  GENRES
 end
